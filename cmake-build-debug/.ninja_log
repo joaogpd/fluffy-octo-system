@@ -1,0 +1,8 @@
+# ninja log v5
+11	95	7065102092185489	CMakeFiles/tarefa4inf1010.dir/priorityqueue.c.obj	2c30b1b6731c50ac
+27	110	7065102092325546	CMakeFiles/tarefa4inf1010.dir/codedict.c.obj	2e3acefdfeccafad
+22	111	7065102092325546	CMakeFiles/tarefa4inf1010.dir/binarytree.c.obj	28a67a3fe6f129c6
+1	116	7065102092385538	CMakeFiles/tarefa4inf1010.dir/main.c.obj	f075edb1c35800b9
+6	137	7065102092615590	CMakeFiles/tarefa4inf1010.dir/filehandler.c.obj	8c54ca84e7f6fc74
+2	73	7065102329316785	CMakeFiles/tarefa4inf1010.dir/arrayoc.c.obj	51e9db0ad1089d01
+74	992	7065102338428033	tarefa4inf1010.exe	b3d384f7b5c356f7

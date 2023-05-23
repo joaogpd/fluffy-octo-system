@@ -1,0 +1,3 @@
+C:/Users/Windows/CLionProjects/tarefa4inf1010/cmake-build-debug/CMakeFiles/tarefa4inf1010.dir
+C:/Users/Windows/CLionProjects/tarefa4inf1010/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Windows/CLionProjects/tarefa4inf1010/cmake-build-debug/CMakeFiles/rebuild_cache.dir
